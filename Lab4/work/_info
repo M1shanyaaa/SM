@@ -1,0 +1,54 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vddnf
+IZagUOnA77C;2YbUgKe6]b1
+V``lWBHmfgd<MHaZLVbziV2
+Z0 dC:\altera\91\modelsim_ase\examples\Lab4
+w1743164754
+8C:/altera/91/modelsim_ase/examples/Lab4/dknf.v
+FC:/altera/91/modelsim_ase/examples/Lab4/dknf.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 HPKBEhhjo5]nIRcBXIb[h0
+!s85 0
+!s101 -O0
+vdknf
+!s100 [D_;QGTFo:f]N;Tc;:[3:0
+I]FYJM>]Ukm=<B[A_dfDlg1
+V0CkOzIRHkKLohHALPO:PP0
+Z4 dC:\altera\91\modelsim_ase\examples\Lab4
+w1743164769
+8C:/altera/91/modelsim_ase/examples/Lab4/ddnf.v
+FC:/altera/91/modelsim_ase/examples/Lab4/ddnf.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+R4
+w1743157402
+8C:/altera/91/modelsim_ase/examples/Lab4/Ex2_Mishanya_OR.v
+FC:/altera/91/modelsim_ase/examples/Lab4/Ex2_Mishanya_OR.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
