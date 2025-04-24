@@ -1,0 +1,25 @@
+`timescale 1ns / 1ps  // Add this line at the top of demux_1to8_4bit.v
+
+module demux_1to8_4bit (
+    input [3:0] D,
+    input [2:0] A,
+    output reg [3:0] Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7
+);
+    always @(*) begin
+        // ???????? ??? ?????? = 0
+        {Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7} = 32'b0;
+        
+        // ????? ????????? ??????
+        case (A)
+            3'b000: Q0 = D;
+            3'b001: Q1 = D;
+            3'b010: Q2 = D;
+            3'b011: Q3 = D;
+            3'b100: Q4 = D;
+            3'b101: Q5 = D;
+            3'b110: Q6 = D;
+            3'b111: Q7 = D;
+        endcase
+    end
+endmodule
+ 
