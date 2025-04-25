@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vbitsum
+IM5B5NSIj==j8;VRc15W7F1
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dC:\altera\91\modelsim_ase\examples\Lab6
+Z1 w1745567131
+Z2 8C:/altera/91/modelsim_ase/examples/Lab6/Mishanya_sum.v
+Z3 FC:/altera/91/modelsim_ase/examples/Lab6/Mishanya_sum.v
+L0 19
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 jD<nGe@NEFULbAmz28Ghf3
+!s85 0
+!s101 -O0
+vmy_sum
+I<EU5k`b7jNe?TcU6<QiOC2
+V_:]@@iS1ehk7P68>7:S;T0
+Z7 dC:\altera\91\modelsim_ase\examples\Lab6
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 aCMO1VaM8gCjmW]Ke99VV2
+!s85 0
+!s101 -O0
+vref_sum
+I<eg4i_MgK@97NUz;4H@i51
+V7gidoJ>a9]4F;_ad@DdBa1
+R7
+w1745567124
+8C:/altera/91/modelsim_ase/examples/Lab6/Mishanya_ref_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/Mishanya_ref_sum.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 `oCo;Wg3L;_AR73Hld>?b1
+!s85 0
+!s101 -O0
+vtest_sum
+!s100 dP:o_oYSLaJCjVhS`aFmc3
+I=g2<dMlKWo><o^7:gP4=U3
+V?[S@XOc7;P58OizZje^Po0
+R7
+w1745567337
+8C:/altera/91/modelsim_ase/examples/Lab6/Mishanya_testbench_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6/Mishanya_testbench_sum.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
